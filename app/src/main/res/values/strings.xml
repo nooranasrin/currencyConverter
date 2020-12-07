@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CurrencyConverter</string>
+    <string name="convert">Convert</string>
+    <string-array name="currencyType">
+        <item>Indian Rupee</item>
+        <item>Saudi Riyal</item>
+        <item>UAE Dirham</item>
+        <item>US Dollar</item>
+    </string-array>
+</resources>
